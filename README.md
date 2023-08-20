@@ -1,5 +1,5 @@
 # resaleFlats
-Resale Flat Data Science Project
+The Housing and Development Board (HDB) resale prices in Singapore refer to the expenses of acquiring previously held public housing properties. HDB flats are an important element of the city-state's housing environment, playing an important role in providing cheap accommodation to its residents. There are many possible factors that affect the resale price and hence this notebook aims to study and identify these following factors. This project also aims to analyse different machine learning algorithms to train on the identified features to predict the resale price.
 
 # How to use?
 Any IDE that supports Jupter Notebooks
